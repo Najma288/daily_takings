@@ -21,3 +21,5 @@
 #npm install
 #npm start
 #go to http://localhost:3000/
+
+excel upload includes e.g Wages Budget Jun 25 MC.xls
