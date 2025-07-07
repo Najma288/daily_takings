@@ -9,6 +9,8 @@
 #pip install django
 #pip install django openpyxl
 #pip install djangorestframework
+#pip install django-cors-headers
+#pip install pandas
 #pip install xlrd
 #python manage.py runserver
 
